@@ -6,7 +6,7 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-nltk.download()
+#nltk.download()
 #nltk.download('averaged_perception_tagger')
 
 
